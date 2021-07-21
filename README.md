@@ -18,3 +18,21 @@ Create and merge branches
 Make various updates and commits
 Push changes to personal remote repository on Github
 **Do not push to Udacity repository**
+
+### General Code Used
+git clone
+git status
+git add .
+git commit
+git push
+git branch
+git checkout
+git log --all
+git pull
+git merge
+
+### Software Used
+- **Udacity** is a great resource to learn this information.
+- **Github** is a robust platform for programmers and developers to work together and manage reporitories.
+- **Atom** is an awesome text editor with great features and tips.
+- **Git terminal application** is an excellent tool with learning tips provided in the terminal window.
