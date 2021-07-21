@@ -7,3 +7,14 @@ The data relates to bikeshare systems for three major cities in the United State
 This data computs descriptive statistics to compute the Most Popular Start Hour and Display a Breakdown of User Types.
 We will make multiple branches and edits to files on those branches by updating a readme file and the Python code. 
 Then we will commit the changes to the remote repository.
+
+### Process
+**Fork the project**
+*Clone to local machine*
+Include Bikeshare files
+Check status in terminal regularly
+Check files in Github
+Create and merge branches
+Make various updates and commits
+Push changes to personal remote repository on Github
+**Do not push to Udacity repository**
